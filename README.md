@@ -10,3 +10,6 @@ My first time usage of NanDeck for making deck for individual purposes.
 ### Material I used:
 1. 160g Paper
 2. PVC Lamination
+
+### Software
+I used NanDeck to create these pdf's. The txt folder contains the code for it. I had to use wine in order to open .exe file for the nandeck. 
